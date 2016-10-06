@@ -57,6 +57,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "crypto-js": "^3.1.6",
     "jquery": "^2.2.4",
     "jquery-validation": "^1.15.1",
     "react": "^15.3.0",
